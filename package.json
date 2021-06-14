@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/strided-base-function-object",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "C APIs for creating and managing strided array function objects.",
   "license": "Apache-2.0",
   "author": {
