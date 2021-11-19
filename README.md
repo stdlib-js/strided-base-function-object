@@ -20,7 +20,7 @@ limitations under the License.
 
 # Function Object
 
-[![NPM version][npm-image]][npm-url] [![Build Status][test-image]][test-url] [![Coverage Status][coverage-image]][coverage-url] [![dependencies][dependencies-image]][dependencies-url]
+[![NPM version][npm-image]][npm-url] [![Build Status][test-image]][test-url] [![Coverage Status][coverage-image]][coverage-url] <!-- [![dependencies][dependencies-image]][dependencies-url] -->
 
 > C APIs for creating and managing strided array function objects.
 
@@ -417,6 +417,14 @@ If a function is found, the function returns the index of the function, and the 
 
 <!-- /.references -->
 
+<!-- Section for related `stdlib` packages. Do not manually edit this section, as it is automatically populated. -->
+
+<section class="related">
+
+</section>
+
+<!-- /.related -->
+
 <!-- Section for all links. Make sure to keep an empty line after the `section` element and another before the `/section` close. -->
 
 
@@ -462,8 +470,12 @@ Copyright &copy; 2016-2021. The Stdlib [Authors][stdlib-authors].
 [coverage-image]: https://img.shields.io/codecov/c/github/stdlib-js/strided-base-function-object/main.svg
 [coverage-url]: https://codecov.io/github/stdlib-js/strided-base-function-object?branch=main
 
+<!--
+
 [dependencies-image]: https://img.shields.io/david/stdlib-js/strided-base-function-object.svg
 [dependencies-url]: https://david-dm.org/stdlib-js/strided-base-function-object/main
+
+-->
 
 [chat-image]: https://img.shields.io/gitter/room/stdlib-js/stdlib.svg
 [chat-url]: https://gitter.im/stdlib-js/stdlib/
