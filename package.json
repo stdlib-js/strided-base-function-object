@@ -1,0 +1,32 @@
+{
+  "name": "@stdlib/strided-base-function-object",
+  "version": "0.0.0",
+  "description": "C APIs for creating and managing strided array function objects.",
+  "license": "Apache-2.0",
+  "type": "module",
+  "main": "./mod.js",
+  "homepage": "https://stdlib.io",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/stdlib-js/strided-base-function-object.git"
+  },
+  "bugs": {
+    "url": "https://github.com/stdlib-js/stdlib/issues"
+  },
+  "keywords": [
+    "stdlib",
+    "base",
+    "strided",
+    "array",
+    "function",
+    "fcn",
+    "c",
+    "n-api",
+    "node-api",
+    "napi"
+  ],
+  "funding": {
+    "type": "patreon",
+    "url": "https://www.patreon.com/athan"
+  }
+}
