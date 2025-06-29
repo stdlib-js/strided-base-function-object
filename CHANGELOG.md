@@ -2,6 +2,50 @@
 
 > Package changelog.
 
+<section class="release" id="unreleased">
+
+## Unreleased (2025-06-29)
+
+<section class="bug-fixes">
+
+### Bug Fixes
+
+-   [`62fd127`](https://github.com/stdlib-js/stdlib/commit/62fd127559608e63541664d9633e085d882e8cb5) - update type definition to include `const` qualifiers
+
+</section>
+
+<!-- /.bug-fixes -->
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`62fd127`](https://github.com/stdlib-js/stdlib/commit/62fd127559608e63541664d9633e085d882e8cb5) - **fix:** update type definition to include `const` qualifiers _(by Athan Reines)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 1 person contributed to this release. Thank you to this contributor:
+
+-   Athan Reines
+
+</section>
+
+<!-- /.contributors -->
+
+</section>
+
+<!-- /.release -->
+
 <section class="release" id="v0.2.2">
 
 ## 0.2.2 (2024-07-27)
