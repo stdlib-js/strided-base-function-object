@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/strided-base-function-object",
-  "version": "0.2.3",
+  "version": "0.2.4",
   "description": "C APIs for creating and managing strided array function objects.",
   "license": "Apache-2.0",
   "author": {
@@ -38,7 +38,7 @@
     "url": "https://github.com/stdlib-js/stdlib/issues"
   },
   "dependencies": {
-    "@stdlib/utils-library-manifest": "^0.2.2"
+    "@stdlib/utils-library-manifest": "^0.2.3"
   },
   "devDependencies": {
     "@stdlib/assert-is-browser": "^0.2.2",
@@ -75,7 +75,6 @@
     "node-api",
     "napi"
   ],
-  "__stdlib__": {},
   "funding": {
     "type": "opencollective",
     "url": "https://opencollective.com/stdlib"
