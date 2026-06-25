@@ -140,6 +140,8 @@ console.log( headerDir );
 
 Structure for grouping strided array function information.
 
+<!-- run-disable -->
+
 ```c
 struct StridedFunctionObject {
     // Strided array function name:
